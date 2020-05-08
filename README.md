@@ -2,6 +2,10 @@
 
 This project is based on Angular tutorial `https://angular.io/tutorial`.
 
+## Mock heroes server
+
+Run `npm install -g json-server` and then `json-server --watch db.json`. 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
